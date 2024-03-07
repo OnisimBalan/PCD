@@ -1,0 +1,3 @@
+/home/onisim/Desktop/PCD/build/CMakeFiles/app1.dir
+/home/onisim/Desktop/PCD/build/CMakeFiles/edit_cache.dir
+/home/onisim/Desktop/PCD/build/CMakeFiles/rebuild_cache.dir
